@@ -2,6 +2,8 @@
 
 In this repository, we tried to predict the heart attack data without using the sklearn library as much as possible. Our purpose is to predict the heart attack data correctly. Since the output data can take two values, which are 0 and 1, it is reasonable to use logistic regression classification. In essence, we can apply the logistic regression by sklearn easily. However, in order to learn the math, which is in the background, we did not use sklearn.
 
+**Note**: You can access the data by following the link in the sources part.
+
 
 ### Data:
 
@@ -38,7 +40,6 @@ In this repository, we tried to predict the heart attack data without using the 
 
 
 ### Sources:
+**Tutorial**: https://www.kaggle.com/code/kanncaa1/deep-learning-tutorial-for-beginners
 
-https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
-
-https://www.kaggle.com/code/kanncaa1/deep-learning-tutorial-for-beginners
+**Dataset**: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
